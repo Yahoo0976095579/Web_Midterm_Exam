@@ -1,0 +1,14 @@
+
+* text=auto
+
+
+*.py text diff=python
+
+
+*.db binary
+
+
+*.md text diff=markdown
+
+*.txt text
+
